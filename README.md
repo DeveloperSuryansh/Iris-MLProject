@@ -8,6 +8,6 @@ This is Simple Machine Learning(ML) Project maded for Beginners to learn, unders
 <li> run iris.py -> <b> python3 iris.py </b>
 
 ## HOW TO RUN (WINDOWS) ##
-1st. You need Python3.x
-2nd. run this command -> <b> pip install -r requirements.txt </b>
-3rd. run iris.py -> <b> python iris.py </b>
+<li> You need Python3.x
+<li> run this command -> <b> pip install -r requirements.txt </b>
+<li> run iris.py -> <b> python iris.py </b>
